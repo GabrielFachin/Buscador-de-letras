@@ -19,4 +19,4 @@ if num < 0:
     num = 0
 
 
-print("você escolheu a letra: " + word[num])
+print("você escolheu a letra: " + word[num]) 
